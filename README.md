@@ -1,2 +1,2 @@
 # Kiran Samudrala
-I am a testing this website for hosting applications
+A static 'Hi!' for all my friends from these static pages
